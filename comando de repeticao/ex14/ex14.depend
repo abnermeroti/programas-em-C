@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1657736263 source:c:\users\user\onedrive\Área de trabalho\lista for\ex14\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
