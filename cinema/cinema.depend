@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1665678095 source:c:\users\user\onedrive\documentos\lista prog\cinema\func.c
+	<stdio.h>
+	<string.h>
+	"func.h"
+
+1665678166 c:\users\user\onedrive\documentos\lista prog\cinema\func.h
+
+1665678029 source:c:\users\user\onedrive\documentos\lista prog\cinema\main.c
+	<stdio.h>
+	<stdlib.h>
+	"func.h"
+
+1665676398 c:\users\user\onedrive\documentos\lista prog\cinema\func.c
+	<stdio.h>
+	<string.h>
+	"func.h"
+
+1665677397 source:c:\users\user\onedrive\documentos\lista prog\cinema\gay.c
+	<stdio.h>
+
